@@ -140,19 +140,19 @@ When I’m not coding, you’ll probably find me experimenting with new tools, a
   <table>
     <tr>
       <td align="center">
-        <a href="https://linkedin.com/in/harshjeet-anand" target="_blank">
+        <a href="[https://linkedin.com/in/harshjeet-anand](https://www.linkedin.com/in/harshjeet-anand-24662a2a9/)" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px; margin: 6px;"/>
         </a>
-        <a href="mailto:harshjeetanand@gmail.com" target="_blank">
+        <a href="mailto:anandharshjeet054@zohomail.in" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px; margin: 6px;"/>
         </a>
-        <a href="https://x.com/" target="_blank">
+        <a href="https://x.com/hj_anand01" target="_blank">
           <img src="https://img.shields.io/badge/X%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="border-radius: 10px; margin: 6px;"/>
         </a>
-        <a href="https://discord.com/users/yourdiscordid" target="_blank">
+        <a href="https://discord.com/users/728906268932178051" target="_blank">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 10px; margin: 6px;"/>
         </a>
-        <a href="https://github.com/HarshjeetAnand" target="_blank">
+        <a href="https://github.com/hj-anand" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 10px; margin: 6px;"/>
         </a>
       </td>
