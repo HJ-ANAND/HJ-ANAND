@@ -11,8 +11,8 @@ When I’m not coding, you’ll probably find me experimenting with new tools, a
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hj_anand&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hj_anand&theme=blue-green&hide_border=false" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HJ-ANAND&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HJ-ANAND&theme=blue-green&hide_border=false" alt="GitHub Streak" height="150"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj-anand&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/> -->
 </p>
 
